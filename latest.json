@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.4",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.4/EllaLink-Android.apk",
-    "sha256": "f0595f5c45066463dbfd3b79b715531a3e74d2ee3ff820d244110b0994bd5cc0",
-    "code": 9,
-    "notes": "모든 앱을 아이폰으로 (유튜브 앱 포함) · 동영상 재생 앱에서 NAS 영상이 안 열리던 문제 수정"
+    "version": "0.5.5",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.5/EllaLink-Android.apk",
+    "sha256": "a227d5a2e20810c6b65b68792f9b71c6d86d698dfe3ed9a0243dc53af83d619d",
+    "code": 10,
+    "notes": "자동 업데이트 보강: 「연결 시작」 직후에도 새 버전을 확인하고, 「새 버전 확인」 버튼을 넣었습니다. 확인이 안 되면 이유를 기록에 적습니다."
   },
   "windows-x64": {
     "version": "0.5.0",
