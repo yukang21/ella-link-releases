@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.2",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.2/EllaLink-Android.apk",
-    "sha256": "1a4ff90a2215cc4c534154623ea567136a4b1e5e68ca55fc01e92840c500fb66",
-    "code": 7,
-    "notes": "나눠 주는 쪽: 443 외 포트(Plex·NAS 등)도 허용"
+    "version": "0.5.3",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.3/EllaLink-Android.apk",
+    "sha256": "6b77011a2c4b363f14027916dc1e0b4f3ea88ed3d14acc6154890a677a0358c7",
+    "code": 8,
+    "notes": "모든 앱을 아이폰으로: 유튜브 앱·동영상 재생 앱도 아이폰 모바일 데이터로 나갑니다"
   },
   "windows-x64": {
     "version": "0.5.0",
