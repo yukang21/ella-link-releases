@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.5",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.5/EllaLink-Android.apk",
-    "sha256": "a227d5a2e20810c6b65b68792f9b71c6d86d698dfe3ed9a0243dc53af83d619d",
-    "code": 10,
-    "notes": "자동 업데이트 보강: 「연결 시작」 직후에도 새 버전을 확인하고, 「새 버전 확인」 버튼을 넣었습니다. 확인이 안 되면 이유를 기록에 적습니다."
+    "version": "0.5.6",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.6/EllaLink-Android.apk",
+    "sha256": "6778ed69fba902331515ca0e87dc0e90e9290797db0f2a0f9c015d2f8f3087be",
+    "code": 11,
+    "notes": "여러 앱을 함께 쓸 때 접속이 안 되던 문제: 연결 자리가 가득 차면 가장 오래 쉬고 있는 연결을 정리해 새 연결을 받습니다. 주소를 숫자로만 보내는 앱도 사이트 이름을 찾아 연결합니다."
   },
   "windows-x64": {
     "version": "0.5.0",
