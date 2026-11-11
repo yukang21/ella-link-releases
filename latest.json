@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.7",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.7/EllaLink-Android.apk",
-    "sha256": "ee3ff32855e6dfea735ac9f3f5f0122708e03c369472264845e5f808b8b2a0a3",
-    "code": 12,
-    "notes": "0.5.6 에서 유튜브까지 안 되던 문제 수정: 방금 쓴 연결은 끊지 않고, 한 곳에 몰린 쉬는 연결만 정리합니다. 연결이 가득 차면 기록에 어디가 많이 쓰는지 남습니다."
+    "version": "0.5.8",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.8/EllaLink-Android.apk",
+    "sha256": "32673943f0b57012be359face05bcc115c46c03e00729df212a078568aaecd97",
+    "code": 13,
+    "notes": "「진단」 버튼이 생겼습니다. 유튜브 등이 안 될 때 누르고 1분 뒤 기록을 사진으로 보내 주세요."
   },
   "windows-x64": {
     "version": "0.5.0",
