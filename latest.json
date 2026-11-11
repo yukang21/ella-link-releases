@@ -1,1 +1,9 @@
-{}
+{
+  "android": {
+    "version": "0.5.1",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.1/EllaLink-Android.apk",
+    "sha256": "4aef030026e433365e8a7204eb2d21729283e9cdf82c2ea687d47ad2aaaee31e",
+    "code": 6,
+    "notes": "자동 업데이트"
+  }
+}
