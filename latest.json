@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.8",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.8/EllaLink-Android.apk",
-    "sha256": "32673943f0b57012be359face05bcc115c46c03e00729df212a078568aaecd97",
-    "code": 13,
-    "notes": "「진단」 버튼이 생겼습니다. 유튜브 등이 안 될 때 누르고 1분 뒤 기록을 사진으로 보내 주세요."
+    "version": "0.5.9",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.9/EllaLink-Android.apk",
+    "sha256": "a61d57659c7d192449f4f9eb5fdfbc47bfff745209d019dd68d731d4d6e857cc",
+    "code": 14,
+    "notes": "넷플릭스처럼 이름을 직접 물어보는 앱을 위한 수정. 안 되면 「진단」을 누르고 기록을 사진으로 보내 주세요."
   },
   "windows-x64": {
     "version": "0.5.0",
