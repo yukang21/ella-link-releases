@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.0",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.0/EllaLink-Android.apk",
-    "sha256": "516db969649bce7c4093cf5223301527e4e0aa6ad99614eb4fdfe71f3ec81dc1",
-    "code": 16,
-    "notes": "화면을 새로 꾸몄습니다. 「태블릿이 Wi-Fi 만들기」 설명과 아이폰 핫스팟으로 넷플릭스 보는 방법을 화면에 넣었습니다."
+    "version": "0.6.1",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.1/EllaLink-Android.apk",
+    "sha256": "a8ab3908b79a2a7606a9b62c16e74eec0b21c232c429b8fe56e0b400b803e640",
+    "code": 17,
+    "notes": "「이 기기의 데이터 나눠 주기」 화면에 돌아가기 버튼을 넣었습니다."
   },
   "windows-x64": {
     "version": "0.5.0",
