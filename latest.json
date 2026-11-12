@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.5.10",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.5.10/EllaLink-Android.apk",
-    "sha256": "edd84885d3f3b16b2fe59003163c04716f76a555e20e0f5b44a6bf257e94a443",
-    "code": 15,
-    "notes": "끊었다가 바로 다시 연결할 때 가끔 나던 「시작 실패」를 고쳤습니다."
+    "version": "0.6.0",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.0/EllaLink-Android.apk",
+    "sha256": "516db969649bce7c4093cf5223301527e4e0aa6ad99614eb4fdfe71f3ec81dc1",
+    "code": 16,
+    "notes": "화면을 새로 꾸몄습니다. 「태블릿이 Wi-Fi 만들기」 설명과 아이폰 핫스팟으로 넷플릭스 보는 방법을 화면에 넣었습니다."
   },
   "windows-x64": {
     "version": "0.5.0",
