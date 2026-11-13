@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.2",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.2/EllaLink-Android.apk",
-    "sha256": "4eb92ebc03bce553231042311780eb27ee6000552810604d473dee5b906c5ec2",
-    "code": 18,
-    "notes": "「연결 시작」이 안 될 때 이유를 화면 맨 위에 보여 줍니다."
+    "version": "0.6.3",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.3/EllaLink-Android.apk",
+    "sha256": "cbdc8c1fc1a23cf08ed513f82b8e43bef35162f7b454e0cf7bf31460864b6bc6",
+    "code": 19,
+    "notes": "앱 아이콘을 넣었습니다."
   },
   "windows-x64": {
     "version": "0.5.0",
