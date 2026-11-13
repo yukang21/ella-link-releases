@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.1",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.1/EllaLink-Android.apk",
-    "sha256": "a8ab3908b79a2a7606a9b62c16e74eec0b21c232c429b8fe56e0b400b803e640",
-    "code": 17,
-    "notes": "「이 기기의 데이터 나눠 주기」 화면에 돌아가기 버튼을 넣었습니다."
+    "version": "0.6.2",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.2/EllaLink-Android.apk",
+    "sha256": "4eb92ebc03bce553231042311780eb27ee6000552810604d473dee5b906c5ec2",
+    "code": 18,
+    "notes": "「연결 시작」이 안 될 때 이유를 화면 맨 위에 보여 줍니다."
   },
   "windows-x64": {
     "version": "0.5.0",
