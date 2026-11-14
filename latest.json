@@ -13,9 +13,9 @@
     "notes": "1.0.0 정식 버전 · 새 화면, 아이폰 자동 찾기, 연결 즉시 확인, http 사이트 지원, 자동 업데이트 표시"
   },
   "windows-arm64": {
-    "version": "0.5.0",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v0.5.0/EllaLink-Windows-arm64.exe",
-    "sha256": "9430153df8ddee969e2ac5b7bf40cb10ee51b81fd9ba56c196002bf55f89863e",
-    "notes": "자동 업데이트 추가. 0.2.1 을 쓰던 PC 는 이 파일을 한 번만 직접 받아 바꾸면 그다음부터는 스스로 새 버전을 받습니다."
+    "version": "1.0.0",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.0/EllaLink-Windows-arm64.exe",
+    "sha256": "c0d1ceea14606a62c3eece7524ed3e7a64d1c2a36774488e3a8335adb449f98c",
+    "notes": "1.0.0 정식 버전 · 새 화면, 아이폰 자동 찾기, 연결 즉시 확인, http 사이트 지원, 자동 업데이트 표시"
   }
 }
