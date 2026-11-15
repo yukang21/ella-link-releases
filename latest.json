@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.4",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.4/EllaLink-Android.apk",
-    "sha256": "8abc7aa0aa35501b628a57148cbaf0eadd8acbae557ecb3a79931ba9eeb8277c",
-    "code": 20,
-    "notes": "구형 안드로이드(13 미만)에서 새 버전 확인이 실패하던 것 고침 · 앱 아이콘을 일반 그림으로 바꿈"
+    "version": "0.6.5",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.5/EllaLink-Android.apk",
+    "sha256": "f7916d6e37a525a97f758fcf44a2adb72c1204d52f7fb4842cd5e00b6727b9d3",
+    "code": 21,
+    "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
   },
   "windows-x64": {
     "version": "1.0.1",
