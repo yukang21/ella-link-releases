@@ -13,9 +13,9 @@
     "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
   },
   "windows-arm64": {
-    "version": "1.0.0",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.0/EllaLink-Windows-arm64.exe",
-    "sha256": "c0d1ceea14606a62c3eece7524ed3e7a64d1c2a36774488e3a8335adb449f98c",
-    "notes": "1.0.0 정식 버전 · 새 화면, 아이폰 자동 찾기, 연결 즉시 확인, http 사이트 지원, 자동 업데이트 표시"
+    "version": "1.0.1",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.1/EllaLink-Windows-arm64.exe",
+    "sha256": "a91ee457d906d4f5a50a1aae30fd932d35c30825849f660b37e23ae8323c1933",
+    "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
   }
 }
