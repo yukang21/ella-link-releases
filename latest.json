@@ -7,10 +7,10 @@
     "notes": "구형 안드로이드(13 미만)에서 새 버전 확인이 실패하던 것 고침 · 앱 아이콘을 일반 그림으로 바꿈"
   },
   "windows-x64": {
-    "version": "1.0.0",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.0/EllaLink-Windows-x64.exe",
-    "sha256": "f1d3488dec0b780629798b23a72b1e87f9454e3518771d4e58b4c6f069b2c903",
-    "notes": "1.0.0 정식 버전 · 새 화면, 아이폰 자동 찾기, 연결 즉시 확인, http 사이트 지원, 자동 업데이트 표시"
+    "version": "1.0.1",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.1/EllaLink-Windows-x64.exe",
+    "sha256": "4e6e17ccd68e6a91b4b8dcaed064c126124455cd27969ac3e009fcbe8e1bf246",
+    "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
   },
   "windows-arm64": {
     "version": "1.0.0",
