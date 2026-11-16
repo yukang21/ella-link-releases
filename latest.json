@@ -14,7 +14,6 @@
   "windows-arm64": {
     "version": "1.0.1",
     "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.1/EllaLink-Windows-arm64.exe",
-    "sha256": "a91ee457d906d4f5a50a1aae30fd932d35c30825849f660b37e23ae8323c1933",
-    "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
+    "sha256": "a91ee457d906d4f5a50a1aae30fd932d35c30825849f660b37e23ae8323c1933"
   }
 }
