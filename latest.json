@@ -9,8 +9,7 @@
   "windows-x64": {
     "version": "1.0.1",
     "url": "https://github.com/yukang21/ella-link-releases/releases/download/windows-v1.0.1/EllaLink-Windows-x64.exe",
-    "sha256": "4e6e17ccd68e6a91b4b8dcaed064c126124455cd27969ac3e009fcbe8e1bf246",
-    "notes": "맨 위에 데이터 사용량 표시 (이번 연결 · 오늘 · 이번 달)"
+    "sha256": "4e6e17ccd68e6a91b4b8dcaed064c126124455cd27969ac3e009fcbe8e1bf246"
   },
   "windows-arm64": {
     "version": "1.0.1",
