@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.6",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.6/EllaLink-Android.apk",
-    "sha256": "fdaad16d4f93f2f1df321589933f989d99e22ddc64937e5676855d3591064156",
-    "code": 22,
-    "notes": "화면을 꺼도 Wi-Fi 가 잠들지 않게 해 끊김을 줄였습니다"
+    "version": "0.6.7",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.7/EllaLink-Android.apk",
+    "sha256": "e2e12b96d990bc3847a016432f92a6280101b56d6bc278adb11c93c86fb7c3b3",
+    "code": 23,
+    "notes": "연결 여는 시간 줄임(아이폰과의 연결을 미리 열어 둠) · 진단에 연결 시간 재기 추가"
   },
   "windows-x64": {
     "version": "1.0.1",
