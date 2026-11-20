@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.7",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.7/EllaLink-Android.apk",
-    "sha256": "e2e12b96d990bc3847a016432f92a6280101b56d6bc278adb11c93c86fb7c3b3",
-    "code": 23,
-    "notes": "연결 여는 시간 줄임(아이폰과의 연결을 미리 열어 둠) · 진단에 연결 시간 재기 추가"
+    "version": "0.6.8",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.8/EllaLink-Android.apk",
+    "sha256": "728c5c7df62a529f0813f660b11705ed06d88051d18f74e6658b27c79fb47092",
+    "code": 24,
+    "notes": "아이폰이 잠깐 답하지 않은 뒤 앱(타이달 등)이 로딩만 도는 문제: 답 없는 연결을 닫아 앱이 바로 새로 연결하게 함"
   },
   "windows-x64": {
     "version": "1.0.1",
