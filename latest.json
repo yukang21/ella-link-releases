@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "0.6.9",
-    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.9/EllaLink-Android.apk",
-    "sha256": "3734c84c6acb38289d62fc51a85177466d94886a48aea991a179c0e6189c5644",
-    "code": 25,
-    "notes": "연결 시작 직후 타이달 등 이미 켜 둔 앱이 한동안 안 되던 문제를 고쳤습니다."
+    "version": "0.6.10",
+    "url": "https://github.com/yukang21/ella-link-releases/releases/download/android-v0.6.10/EllaLink-Android.apk",
+    "sha256": "308e18b8aa94d1bce35f296c2581a5d57523182806466c52dc5b518ee7bedc15",
+    "code": 26,
+    "notes": "연결 실패 기록이 원인(아이폰 공유 꺼짐 / Wi-Fi 없음)을 구분해 보여 줍니다."
   },
   "windows-x64": {
     "version": "1.0.1",
